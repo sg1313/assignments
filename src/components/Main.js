@@ -30,7 +30,7 @@ const Main = () => {
 
         </div>
         <div>
-            <p>123</p>
+            <p>12dfasdfasdf3</p>
             <Login/>
         </div>
     </div>
