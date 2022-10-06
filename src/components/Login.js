@@ -1,5 +1,6 @@
 import React from 'react';
 import './List.css';
+import { Link } from 'react-router-dom';
 
 const Login = () => {
 
@@ -12,7 +13,8 @@ const Login = () => {
             <div className='login'>
                 아이디 : <input type='text'/> <br/><br/>
                 비밀번호 : <input type='password'/> <br/><br/>
-                <button>회원가입</button> <button>로그인</button>
+                <Link to='/join'><button>회원가입</button> </Link>
+                <button>로그인</button>
             </div>
         </div>
     )
