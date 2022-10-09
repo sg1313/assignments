@@ -3,7 +3,6 @@ import Login from './Login';
 import List from './List';
 import { useState } from 'react';
 import {GrApps} from 'react-icons/gr';
-import Join from './Join';
 
 const Main = () => {
     const [hover, setHover] = useState(false);
