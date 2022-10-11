@@ -1,14 +1,16 @@
 // import React from 'react';
-// import Log
+
 
 // const LoginInfo = () => {
+
 //     return (
-//         <div>
-//                 <h1>{id}</h1>
-//                 <h2>{pw}</h2>
-//                 <h3>{userBirth}</h3>
+//         <div className='loginInfo'>
+//             <h1>아이디는 {this.savedId}</h1>
+//             <h1>비밀번호는 {this.savedPw}</h1>
+//             <h1>생년월일은 {this.savedBirth}</h1>
+//             <h1>이름은 {this.savedUsername}</h1>
 //         </div>
-//     );
-// };
+//     )
+// }
 
 // export default LoginInfo;
